@@ -43,7 +43,7 @@
 - **Watercolor Dream**：专注通透的水痕晕染效果，赋予画面清新的水彩感
 - **Pencil Master**：呈现极具张力的铅笔线条与明暗素描质感
 - **Ink Wash Classic**：打造留白艺术与国风意境的传统水墨画
-- **Oil Painting Art**：模拟厚重的颜料笔触，呈现画廊级的油画效果。
+- **Oil Painting Art**：模拟厚重的颜料笔触，呈现画廊级的油画效果
 
 ## 📖 使用指南
 
