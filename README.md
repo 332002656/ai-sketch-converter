@@ -30,7 +30,7 @@
 | ![风景原图](https://img.sipingseo.com/file/ai-sketch-converter/RtfWrNEE.webp) | ![水彩结果](https://img.sipingseo.com/file/ai-sketch-converter/G3GIaXI6.webp) |
 
 ### 3. 建筑/宠物素描与艺术化
-提取结构线条与明暗关系，呈现建筑师手稿或治愈系卡通质感。
+提取结构线条与明暗关系，呈现建筑师手稿或治愈系卡通质感
 | 类型 | 原始照片 | AI 艺术转换结果 |
 | :--- | :--- | :--- |
 | **建筑素描** | ![建筑原图](https://img.sipingseo.com/file/ai-sketch-converter/bBHHuoWE.webp) | ![建筑素描](https://img.sipingseo.com/file/ai-sketch-converter/I03xu0qc.webp) |
