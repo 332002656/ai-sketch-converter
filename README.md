@@ -5,7 +5,7 @@
 [![Category](https://img.shields.io/badge/Category-AI%20Art%20Tool-blue)](#)
 [![License](https://img.shields.io/badge/License-Free-green)](#)
 
-[HANYUAI AI 转手绘](https://www.sipingseo.com/zh/line-art-edit/ai-sketch-convert) 是一款基于深度生成式模型的免费在线照片艺术化工具。它能精准提取图像轮廓并渲染手绘质感，支持将普通照片一键转换为 **日系动漫、柔和水彩、细腻素描、传统水墨及厚重油画** 等多种风格。无需任何绘画基础，让您的照片瞬间变身艺术品。
+[HANYUAI AI 转手绘](https://www.sipingseo.com/zh/line-art-edit/ai-sketch-convert) 是一款基于深度生成式模型的免费在线照片艺术化工具。它能精准提取图像轮廓并渲染手绘质感，支持将普通照片一键转换为 **日系动漫、柔和水彩、细腻素描、传统水墨及厚重油画** 等多种风格。无需任何绘画基础，让您的照片瞬间变身艺术品
 
 ## 🌟 核心优势
 
