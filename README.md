@@ -18,7 +18,7 @@
 ## 📸 精彩效果展示 (Before & After)
 
 ### 1. 人像照片动漫化 (二次元风格)
-智能识别面部特征，保留辨识度的同时赋予唯美的日系动漫或萌系画风。
+智能识别面部特征，保留辨识度的同时赋予唯美的日系动漫或萌系画风
 | 原始照片 | AI 动漫手绘结果 |
 | :--- | :--- |
 | ![人像原图](https://img.sipingseo.com/file/ai-sketch-converter/P1WSUYnu.webp) | ![动漫结果](https://img.sipingseo.com/file/ai-sketch-converter/xLP4NqJb.webp) |
