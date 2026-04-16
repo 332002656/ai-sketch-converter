@@ -24,7 +24,7 @@
 | ![人像原图](https://img.sipingseo.com/file/ai-sketch-converter/P1WSUYnu.webp) | ![动漫结果](https://img.sipingseo.com/file/ai-sketch-converter/xLP4NqJb.webp) |
 
 ### 2. 风景照片水彩化 (通透质感)
-模拟水痕晕染与纸张纹理，让山川湖泊呈现出淡雅艺术插画的效果
+模拟水痕晕染与纸张纹理，让山川湖泊呈现出淡雅艺术插画的效果 。
 | 原始风景 | AI 水彩渲染结果 |
 | :--- | :--- |
 | ![风景原图](https://img.sipingseo.com/file/ai-sketch-converter/RtfWrNEE.webp) | ![水彩结果](https://img.sipingseo.com/file/ai-sketch-converter/G3GIaXI6.webp) |
